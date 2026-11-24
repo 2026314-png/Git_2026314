@@ -14,7 +14,7 @@ public class Git_2026314 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Amarsanaa Davaasuren-2026314");
     }
     
 }
